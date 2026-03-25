@@ -5,6 +5,8 @@ This is the primary repository for distributing dispatches software tools.
 [![Python package](https://github.com/gmlc-dispatches/dispatches/actions/workflows/python-package.yml/badge.svg)](https://github.com/gmlc-dispatches/dispatches/actions/workflows/python-package.yml)
 [![Documentation Status](https://readthedocs.org/projects/dispatches/badge/?version=main)](https://dispatches.readthedocs.io/en/latest/?badge=main)
 
+## Badge
+
 ## Description
 
 DISPATCHES, the Design Integration and Synthesis Platform to Advance Tightly Coupled Hybrid Energy Systems,
